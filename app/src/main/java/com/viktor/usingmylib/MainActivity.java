@@ -7,6 +7,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.viktor.rtable.RecyclerViewTable;
 import com.viktor.rtable.components.ColumnHeader;
+import com.viktor.rtable.events.OnRowClicked;
 
 import java.util.Arrays;
 import java.util.List;
